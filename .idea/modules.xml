@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YCCardView-master-master.iml" filepath="$PROJECT_DIR$/.idea/modules/YCCardView-master-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YCCardViewLib/YCCardView-master-master.YCCardViewLib.iml" filepath="$PROJECT_DIR$/.idea/modules/YCCardViewLib/YCCardView-master-master.YCCardViewLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/YCCardView-master-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/YCCardView-master-master.app.iml" />
+    </modules>
+  </component>
+</project>
